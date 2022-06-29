@@ -1,0 +1,14 @@
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\mailService.exe
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\mailService.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\mailService.deps.json
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\mailService.runtimeconfig.json
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\mailService.pdb
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\MailKit.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\MimeKit.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\BouncyCastle.Crypto.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sertac.calik\mailService\mailService\mailService\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
